@@ -86,7 +86,6 @@ public class Calculator extends AppCompatActivity  {
                 editText.setText("");
             }
         });
-
         //numberButtonGeneration();
         OnClickNumberButton();
         operatorButton();
