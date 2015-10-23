@@ -87,7 +87,6 @@ public class Calculator extends AppCompatActivity  {
             }
         });
 
-
         //numberButtonGeneration();
         OnClickNumberButton();
         operatorButton();
