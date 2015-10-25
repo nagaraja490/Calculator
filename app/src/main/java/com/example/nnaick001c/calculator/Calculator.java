@@ -24,7 +24,7 @@ public class Calculator extends AppCompatActivity  {
     private static String operator="";
     private static float resultValue=0;
     private static double result=0;
-
+//Hello
    EditText editText;
     TextView topOpp;
     TextView tep ;
