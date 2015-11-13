@@ -1,5 +1,5 @@
 package com.example.nnaick001c.calculator;
-//Hel
+//He
 import android.content.DialogInterface;
 import android.content.pm.ActivityInfo;
 import android.graphics.Color;
